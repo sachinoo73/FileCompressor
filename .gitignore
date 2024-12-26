@@ -1,0 +1,16 @@
+# Credentials and tokens
+credentials.json
+token.pickle
+CRED/
+
+# macOS system files
+.DS_Store
+
+# Test files and directories
+Test_Project/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
